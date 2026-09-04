@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="CSJ.androidlib:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../res;file://$MODULE_DIR$/../../src/debug/res;file://$MODULE_DIR$/../../build/generated/res/rs/debug;file://$MODULE_DIR$/../../build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../build/intermediates/javac/debug/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../AndroidManifest.xml" />
+    <content url="file://$MODULE_DIR$/../../assets" />
+    <content url="file://$MODULE_DIR$/../../build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" />
+    <content url="file://$MODULE_DIR$/../../build/generated/ap_generated_sources/debug/out" />
+    <content url="file://$MODULE_DIR$/../../build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" />
+    <content url="file://$MODULE_DIR$/../../build/generated/res/resValues/debug" />
+    <content url="file://$MODULE_DIR$/../../build/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../build/generated/source/buildConfig/debug" />
+    <content url="file://$MODULE_DIR$/../../res">
+      <sourceFolder url="file://$MODULE_DIR$/../../res" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../src">
+      <sourceFolder url="file://$MODULE_DIR$/../../src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/kssdk-ad-5.3.20.1.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/windAd-4.25.14.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/mediation_ks_adapter_5.3.20.1.0.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/open_ad_sdk_7606.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/windAd-common-2.0.1.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/Baidu_MobAds_SDK_v9.4503.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/mediation_baidu_adapter_9.4503.0.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/mediation_sigmob_adapter_4.25.14.0.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/GDTSDK.unionNormal.4.680.1550.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/oaid_sdk_1.0.22.aar" level="project" />
+    <orderEntry type="library" name="Gradle: /Users/bytedance/mygit/csj-mediation-unity/Assets/CSJ/Plugins/Android/libs/mediation_gdt_adapter_4.680.1550.0.aar" level="project" />
+  </component>
+</module>
